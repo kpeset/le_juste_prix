@@ -20,7 +20,6 @@
 // Tant que -> while -> la partie n'est pas terminée -> on continue
 // Quand la partie est terminée -> On s'arrête
 
-// Tant que le personnage a au moins 1 point de vie, la partie continue
 // tant que je n'ai pas la bonne réponse, la partie continue
 // quand j'ai la bonne réponse la partie s'arrête.
 
